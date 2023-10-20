@@ -1,0 +1,100 @@
+{
+  "portfolioItems": [
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://stx-khaki.vercel.app/",
+        "github": "https://github.com/BaeJunHee48/STX",
+        "origin": "http://www.stxconst.co.kr/"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "현대",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/hyundai.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://hyundai-nu.vercel.app/",
+        "github": "https://github.com/BaeJunHee48/Hyundai",
+        "origin": "https://www.hdec.kr/kr/main.aspx"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "한살림",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/hansalim.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://hansalim-psi.vercel.app/",
+        "github": "https://github.com/BaeJunHee48/hansalim",
+        "origin": "https://shop.hansalim.or.kr/shopping/spMain.do"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "도시락통",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/do.jpg",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://dosiraktong-one.vercel.app/",
+        "github": "https://github.com/BaeJunHee48/dosiraktong",
+        "origin": "https://dosiraktong.com/"
+      }
+    },
+    {
+      "h": "TEAM PROJECT",
+      "title": "룰리커피",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "3명",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/b1.jpg",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://",
+        "GitHub": "https://github.com/BaeJunHee48/now_rully_coffee",
+        "Figma": "https://www.figma.com/file/vMSDa9FfuFJjCOW0e5hRND/Untitled?type=design&mode=design&t=C5SvriyFskKe96GL-0"
+      }
+    },
+    {
+      "h": "TEAM PROJECT",
+      "title": "별의 온도",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "3명",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/st.jpg",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://sod-eight.vercel.app/",
+        "GitHub": "https://github.com/BaeJunHee48/02project",
+        "Figma": "https://www.figma.com/file/q738Uh0LCRVabTjY7YmxvC/Project02?type=design&node-id=0-1&mode=design&t=C5SvriyFskKe96GL-0"
+      }
+    }
+  ]
+}
